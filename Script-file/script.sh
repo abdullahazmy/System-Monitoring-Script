@@ -34,7 +34,7 @@ main() {
         get_disk_usage
         get_network_usage
         echo "--------------------------------"
-        sleep 5  # Update every 5 seconds
+        sleep 3  # Update every 5 seconds
     done
 }
 
