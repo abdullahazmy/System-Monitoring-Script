@@ -28,4 +28,6 @@ The script will continuously monitor system resources and display the informatio
 You can customize the script by adjusting the update interval or adding more monitoring features based on your requirements.
 
 ### Abdeltawab Wagieh
-@Alien166 
+Connect with me on LinkedIn: [Your LinkedIn Username](https://www.linkedin.com/in/abdeltawab-wagieh-825958226/)
+
+Connect with me on GitHub: [Your GitHub Username](https://www.Github.com/in/Alien166/)
