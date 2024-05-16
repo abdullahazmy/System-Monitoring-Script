@@ -29,5 +29,3 @@ You can customize the script by adjusting the update interval or adding more mon
 
 ### Abdeltawab Wagieh
 Connect with me on LinkedIn: [Your LinkedIn Username](https://www.linkedin.com/in/abdeltawab-wagieh-825958226/)
-
-Connect with me on GitHub: [Your GitHub Username](https://www.Github.com/in/Alien166/)
